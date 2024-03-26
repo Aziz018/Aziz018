@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 └─# sudo apt update
 
 Global Info:
-[1]Username: Aziz018
-[2]Discord: .gg/Aziz018
+[1]Username: aelkheta
+[2]Discord: .gg/0x617a697a
 
 ┌──(root@Aziz018)-[~/Desktop/push_swap]
 └─# ./push_swap 1 2 3
