@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img width="720" height="auto" src="https://github.com/Aziz018/Aziz018/blob/main/gear5.gif">
+  <img width="920" height="auto" src="https://github.com/Aziz018/Aziz018/blob/main/gear5.gif">
 </div>
 
 ```css
