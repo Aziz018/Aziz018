@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/ Him
 - ⚡ Fun fact: ...
 -->
+
+<img>gear5.gif</img>
+
 ```css
 ┌──(root@Aziz018)-[~]
 └─# sudo apt update
