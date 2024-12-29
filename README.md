@@ -13,7 +13,7 @@
   <img width="920" height="auto" src="https://github.com/Aziz018/Aziz018/blob/main/gear5.gif">
 </div>
 
-```bash
+```css
 ┌──(root@Aziz018)-[~]
 └─# sudo apt update
 
