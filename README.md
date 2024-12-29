@@ -24,9 +24,9 @@ Global Info:
 ┌──(root@Aziz018)-[~/Desktop/push_swap]
 └─# ./push_swap 1 2 3
 ```
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2770261" style='border:none;'></iframe>
 
 <!--
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2770261" style='border:none;'></iframe>
 <div align="center">
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/aelkheta" alt="aelkheta's 42 stats" /></a>
 </div>
